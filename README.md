@@ -44,3 +44,9 @@
    - Seasonal trends affect key metrics, suggesting the need for targeted marketing campaigns during low-performance weeks.
 
 These insights can help AtliQ Grands focus on high-performing areas, adjust strategies for underperforming segments, and optimize revenue and occupancy rates through targeted actions.
+
+<h2> Dasboard </h2>
+![WhatsApp Image 2024-08-02 at 11 24 59_ce27566d](https://github.com/user-attachments/assets/c3079edd-b621-4989-a743-fc6127ce4fab)
+
+
+h2
